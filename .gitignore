@@ -1,0 +1,33 @@
+# Python
+*.pyc
+__pycache__/
+.Python/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.project
+.pydevproject
+
+# Django-specific
+*.log
+*.pot
+db.sqlite3
+local_settings.py
+media/ # Or your specific media root folder
+static_collected/ # If you collect static files to a separate directory
+migrations/00*.py # Consider carefully if you need to ignore migrations entirely
+
+# IDE-specific (e.g., PyCharm)
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Other
+.env
+.coverage
+.tox/
+.eggs/

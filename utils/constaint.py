@@ -1,0 +1,8 @@
+COMPANY_NAME = "Battle Bounty"
+COMPANY_EMAIL = "battlebountyindia@gmail.com"
+COMPANY_PHONE = "+91"
+COMPANY_LOGO_WHITE_SVG = "https://res.cloudinary.com/dql8neqaq/image/upload/v1758954271/Untitled_design_vi6z1r.svg"
+COMPANY_LOGO_WHITE_PNG = "https://res.cloudinary.com/dql8neqaq/image/upload/v1758954268/Untitled_design_4_nxsco0.png"
+COMPANY_ADDRESS = "Chhapi, Gujarat, India"
+COMPANY_WEBSITE = "https://battlebounty.com"
+COMPANY_GST_NUMBER = "24ABCDE1234F1Z5"
